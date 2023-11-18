@@ -10,3 +10,12 @@ Dados coletados pela pulseira serão enviadas através do fiware para um "freebo
 ## Objetivo do produto:
 É buscado que seja possível para todos que chegam ao limite de exaustão, principalmente médicos que possuem muitos casos da "síndrome de burnout" receberem o devido tratamento no momento certo.
 O tratamento inclui acompanhamento psicológico, momentos de lazer e relaxamento e outros métodos, sem contar que em casos mais extremos é possível ser necessário a receita de antidepressivos. A duração do tratamento é relativa, com a possibilidade de durar anos. Em alguns casos, o colaborador precisa se afastar completamente do trabalho. Entratnto, é possível se cuidar sem precisar se licenciar. Por isto a HealthHarbor Band busca tratar o quanto antes possível, evitando que leve a problemas maiores.
+
+## Componentes:
+
+Os componentes principais do primeiro protótipo incluem um ESP-32 para se conectar ao FIWARE e transportar os dados lidos à uma plataforma "freeboard". Fazendo com que assim os dados possam ser ldios de forma remota. Um sensor de frequência cardíaca, para que assim seja lido as alterações na pessoa que a estiver utilizando.
+
+O ESP-32 estará conectado no sensor de frequência cardíaca para que a leitura seja feita, e em seguida seja transmitida a leitura em um tempo quase que real para a área de Front-End, para que os dados sejam avalíados e recebam os devidos alertas.
+
+### Imagem da simulação no Wokwi:
+(UTILIZADO O POTENCIÔMETRO PELO SITE NÃO TER O SENSOR NECESSÁRIO PARA A DEVIDA APLCIAÇÃO)
