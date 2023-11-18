@@ -20,3 +20,15 @@ O ESP-32 estará conectado no sensor de frequência cardíaca para que a leitura
 
 ### Imagem da simulação no Wokwi:
 (UTILIZADO O POTENCIÔMETRO PELO SITE NÃO TER O SENSOR NECESSÁRIO PARA A DEVIDA APLCIAÇÃO)
+<img style="height: 400px;" src="./img/demonstrção.jpeg">
+
+## Montagem do porótipo:
+
+- Placa ESP-32;
+- Sensor de frequência cardíaca;
+- LED(Ligarem demonstrando se necessita estar em alerta);
+- Buzzer (Acionar quando o nível de leitura estiver crítico, muito fora do comum);
+- Conexão com a internet.
+
+## Integrante:
+Murilo Marsola Eloys (rm: 552117)
