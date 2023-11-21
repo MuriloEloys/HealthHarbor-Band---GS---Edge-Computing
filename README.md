@@ -18,7 +18,7 @@ Os componentes principais do primeiro protótipo incluem um ESP-32 para se conec
 O ESP-32 estará conectado no sensor de frequência cardíaca para que a leitura seja feita, e em seguida seja transmitida a leitura em um tempo quase que real para a área de Front-End, para que os dados sejam avalíados e recebam os devidos alertas.
 
 ### Imagem da simulação no Wokwi:
-(UTILIZADO O POTENCIÔMETRO PELO SITE NÃO TER O SENSOR NECESSÁRIO PARA A DEVIDA APLCIAÇÃO)
+(UTILIZADO O POTENCIÔMETRO PELO SITE NÃO TER O SENSOR NECESSÁRIO PARA A DEVIDA APLICAÇÃO)
 <img style="height: 400px;" src="./img/demonstrção.jpeg">
 
 ## Montagem do porótipo:
